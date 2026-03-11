@@ -1,0 +1,13 @@
+.docker
+.ipython
+.ssh
+.venv
+venv
+.vscode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+buf
